@@ -1,0 +1,43 @@
+
+body {
+  font-size: 12px;
+}
+
+
+div {
+  border: 2px solid rgb(219, 193, 122);
+  padding: 10px;
+  margin: 0 0 1em 0;
+}
+
+.normal {
+  border-color: rgb(79, 185, 227);
+}
+
+.float {
+  float: left;
+  border-color: seagreen;
+}
+
+.f1 {
+  width: 45%;
+}
+
+.f2 {
+  width: 10%;
+}
+
+.n3 {
+  /* width: 100px;
+  height: 100px; */
+  clear: both;
+  background-color: red;
+}
+
+.n4 {
+  background-color: rgb(143, 19, 180)
+}
+
+.n5 {
+  background-color: rgb(177, 17, 78);
+}
